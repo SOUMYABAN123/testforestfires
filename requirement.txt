@@ -1,0 +1,6 @@
+numpy
+ipykernel
+pandas
+matplotlib
+scikit_learn
+
